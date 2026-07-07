@@ -5,6 +5,12 @@
     "longitude": -68.60185
   },
   "image2.jpg": {
+    "tags": [
+      "ralph",
+      "robin",
+      "rosemary",
+      "favorite"
+    ],
     "location": "Excellence Punta Cana, AL, Dominican Republic",
     "latitude": 18.8256,
     "longitude": -68.60185
