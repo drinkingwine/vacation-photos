@@ -771,5 +771,11 @@
     "latitude": 41.86533055555556,
     "longitude": -88.10839166666666,
     "dateTaken": "2017-05-05T20:58:23.000Z"
+  },
+  "Ralph-2.jpeg": {
+    "location": "Buddy Dive, Bonaire",
+    "latitude": 12.17128,
+    "longitude": -68.28805,
+    "dateTaken": "2011-01-01T04:00:00.000Z"
   }
 }
