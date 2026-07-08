@@ -34,5 +34,16 @@
     "dateTaken": "2012-12-16T20:05:45.000Z",
     "sourceTrip": "Dominican-Republic-2012",
     "sourcePath": "Dominican-Republic-2012/IMG_0948.jpeg"
+  },
+  "IMG_0953.jpeg": {
+    "tags": [
+      "favorite"
+    ],
+    "location": "Excellence Punta Cana",
+    "latitude": 18.8271737,
+    "longitude": -68.6015537,
+    "dateTaken": "2012-12-17T16:40:20.000Z",
+    "sourceTrip": "Dominican-Republic-2012",
+    "sourcePath": "Dominican-Republic-2012/IMG_0953.jpeg"
   }
 }
