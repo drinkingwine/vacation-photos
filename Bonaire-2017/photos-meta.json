@@ -752,6 +752,9 @@
     "dateTaken": "2017-10-20T11:52:55.000Z"
   },
   "Ron-32.jpeg": {
+    "tags": [
+      "kirk"
+    ],
     "location": "Buddy Dive, Bonaire",
     "latitude": 12.17128,
     "longitude": -68.28805,
