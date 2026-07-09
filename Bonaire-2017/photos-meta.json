@@ -637,6 +637,10 @@
     "dateTaken": "2017-10-19T16:00:00.000Z"
   },
   "Ralph-4.jpeg": {
+    "tags": [
+      "keith",
+      "ron"
+    ],
     "location": "Buddy Dive, Bonaire",
     "latitude": 12.17128,
     "longitude": -68.28805,
