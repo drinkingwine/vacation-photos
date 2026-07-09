@@ -456,6 +456,10 @@
     "dateTaken": "2017-10-22T01:03:48.000Z"
   },
   "Pete-23.jpeg": {
+    "tags": [
+      "tom",
+      "pete"
+    ],
     "location": "Kaya Libertador Simon Bolivar, Kralendijk, Bonaire, Nederland",
     "latitude": 12.150277777777777,
     "longitude": -68.2761111111111,
