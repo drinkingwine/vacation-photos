@@ -761,6 +761,9 @@
     "dateTaken": "2017-10-18T14:17:19.000Z"
   },
   "Tom-7.jpeg": {
+    "tags": [
+      "keith"
+    ],
     "location": "Buddy Dive, Bonaire",
     "latitude": 12.17128,
     "longitude": -68.28805,
