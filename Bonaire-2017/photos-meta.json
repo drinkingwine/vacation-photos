@@ -237,6 +237,11 @@
     "dateTaken": "2017-10-15T23:18:01.000Z"
   },
   "Joe-10.jpeg": {
+    "tags": [
+      "ralph",
+      "kirk",
+      "tom"
+    ],
     "location": "Buddy Dive, Bonaire",
     "latitude": 12.17128,
     "longitude": -68.28805,
