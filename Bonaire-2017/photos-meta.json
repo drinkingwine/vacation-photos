@@ -352,6 +352,9 @@
     "dateTaken": "2017-10-22T01:04:19.000Z"
   },
   "Pete-34.jpeg": {
+    "tags": [
+      "tom"
+    ],
     "location": "Buddy Dive, Bonaire",
     "latitude": 12.17128,
     "longitude": -68.28805,
