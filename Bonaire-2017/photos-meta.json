@@ -692,6 +692,9 @@
     "dateTaken": "2017-10-21T10:55:23.000Z"
   },
   "Ralph-20.jpeg": {
+    "tags": [
+      "boats"
+    ],
     "location": "Buddy Dive, Bonaire",
     "latitude": 12.17128,
     "longitude": -68.28805,
