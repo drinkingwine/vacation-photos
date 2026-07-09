@@ -755,6 +755,9 @@
     "dateTaken": "2017-10-15T19:57:33.000Z"
   },
   "Tom-6.jpeg": {
+    "tags": [
+      "tom"
+    ],
     "location": "Buddy Dive, Bonaire",
     "latitude": 12.17128,
     "longitude": -68.28805,
