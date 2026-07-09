@@ -824,6 +824,9 @@
     "dateTaken": "2017-10-18T14:41:08.000Z"
   },
   "Tom-23.jpeg": {
+    "tags": [
+      "critters"
+    ],
     "location": "Buddy Dive, Bonaire",
     "latitude": 12.17128,
     "longitude": -68.28805,
