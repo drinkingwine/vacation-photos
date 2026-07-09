@@ -236,6 +236,9 @@
     "dateTaken": "2017-10-20T12:54:40.000Z"
   },
   "Joe-29.jpeg": {
+    "tags": [
+      "ralph"
+    ],
     "location": "Buddy Dive, Bonaire",
     "latitude": 12.17128,
     "longitude": -68.28805,
