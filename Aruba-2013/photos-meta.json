@@ -418,5 +418,11 @@
     "latitude": 12.541166666666667,
     "longitude": -70.06099999999999,
     "dateTaken": "2013-01-25T03:18:24.000Z"
+  },
+  "photo.jpeg": {
+    "location": "Departures, Charlotte, Mecklenburg County, North Carolina, 28208, United States",
+    "latitude": 35.220666666666666,
+    "longitude": -80.941,
+    "dateTaken": "2013-01-18T15:00:45.000Z"
   }
 }
