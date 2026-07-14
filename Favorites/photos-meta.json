@@ -45,5 +45,16 @@
     "dateTaken": "2012-12-17T16:40:20.000Z",
     "sourceTrip": "Dominican-Republic-2012",
     "sourcePath": "Dominican-Republic-2012/IMG_0953.jpeg"
+  },
+  "DSCN8939_164.jpeg": {
+    "tags": [
+      "favorite"
+    ],
+    "location": "Ireland",
+    "latitude": 52.865196,
+    "longitude": -7.9794599,
+    "dateTaken": "2014-10-30T11:59:03.000Z",
+    "sourceTrip": "Ireland-2014",
+    "sourcePath": "Ireland-2014/DSCN8939_164.jpeg"
   }
 }
