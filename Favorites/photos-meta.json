@@ -56,5 +56,15 @@
     "dateTaken": "2014-10-30T11:59:03.000Z",
     "sourceTrip": "Ireland-2014",
     "sourcePath": "Ireland-2014/DSCN8939_164.jpeg"
+  },
+  "IMG_1492.mov": {
+    "tags": [
+      "favorite"
+    ],
+    "location": "San Francisco",
+    "latitude": 37.778008,
+    "longitude": -122.431272,
+    "sourceTrip": "2014-San-Francisco",
+    "sourcePath": "2014-San-Francisco/IMG_1492.mov"
   }
 }
