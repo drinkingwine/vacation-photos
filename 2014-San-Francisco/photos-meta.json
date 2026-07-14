@@ -298,5 +298,10 @@
     "latitude": 37.80897777777778,
     "longitude": -122.41863333333333,
     "dateTaken": "2013-11-21T18:06:35.000Z"
+  },
+  "IMG_1492.mov": {
+    "location": "San Francisco",
+    "latitude": 37.778008,
+    "longitude": -122.431272
   }
 }
