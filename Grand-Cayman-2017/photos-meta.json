@@ -339,6 +339,9 @@
     "dateTaken": "2017-05-07T13:22:00.000Z"
   },
   "IMG_0002.jpeg": {
+    "tags": [
+      "robin"
+    ],
     "location": "Compass Point, Grand Cayman",
     "latitude": 19.307,
     "longitude": -81.094636,
