@@ -196,5 +196,11 @@
     "latitude": 0,
     "longitude": 0,
     "dateTaken": "2013-11-22T15:54:14.000Z"
+  },
+  "034_.jpeg": {
+    "location": "San Fransisco, CA",
+    "latitude": 37.778008,
+    "longitude": -122.431272,
+    "dateTaken": "2013-11-22T15:54:44.000Z"
   }
 }
