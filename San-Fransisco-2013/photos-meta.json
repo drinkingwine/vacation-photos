@@ -178,5 +178,11 @@
     "latitude": 37.778008,
     "longitude": -122.431272,
     "dateTaken": "2013-11-22T15:52:45.000Z"
+  },
+  "031_.jpeg": {
+    "location": "0.00000° N, 0.00000° E",
+    "latitude": 0,
+    "longitude": 0,
+    "dateTaken": "2013-11-22T15:53:14.000Z"
   }
 }
