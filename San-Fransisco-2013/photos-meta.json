@@ -208,5 +208,11 @@
     "latitude": 0,
     "longitude": 0,
     "dateTaken": "2013-11-22T16:06:19.000Z"
+  },
+  "036_.jpeg": {
+    "location": "Parade Ground, San Francisco, California, 94123, United States",
+    "latitude": 37.826170000000005,
+    "longitude": -122.42226500000001,
+    "dateTaken": "2013-11-22T16:14:11.000Z"
   }
 }
