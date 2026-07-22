@@ -100,5 +100,11 @@
     "latitude": 41.86108055555556,
     "longitude": -88.10775,
     "dateTaken": "2015-11-26T20:09:04.000Z"
+  },
+  "32.jpg": {
+    "location": "West Indiana Street, Wheaton, DuPage County, Illinois, 60187, United States",
+    "latitude": 41.861161111111116,
+    "longitude": -88.10781944444444,
+    "dateTaken": "2015-11-26T20:10:40.000Z"
   }
 }
