@@ -75,6 +75,9 @@
     "dateTaken": "2012-11-22T21:06:01.000Z"
   },
   "13.jpg": {
+    "tags": [
+      "ralph"
+    ],
     "location": "West Indiana Street, Wheaton, DuPage County, Illinois, 60187, United States",
     "latitude": 41.861333333333334,
     "longitude": -88.10766666666666,
