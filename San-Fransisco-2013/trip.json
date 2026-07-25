@@ -3,5 +3,8 @@
   "location": "San Fransisco, CA",
   "geoLocation": "San Francisco, CA, USA",
   "latitude": 37.778008,
-  "longitude": -122.431272
+  "longitude": -122.431272,
+  "kind": "trip",
+  "startDate": "2013-11-22",
+  "endDate": "2013-11-29"
 }
