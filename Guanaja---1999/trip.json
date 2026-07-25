@@ -4,5 +4,7 @@
   "location": "Guanaja",
   "geoLocation": "Guanaja, Bay Islands, Honduras",
   "latitude": 16.4826614,
-  "longitude": -85.8793252
+  "longitude": -85.8793252,
+  "startDate": "1999-07-15",
+  "endDate": "1999-07-25"
 }
