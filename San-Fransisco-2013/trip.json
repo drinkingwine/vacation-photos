@@ -6,5 +6,8 @@
   "longitude": -122.431272,
   "kind": "trip",
   "startDate": "2013-11-22",
-  "endDate": "2013-11-29"
+  "endDate": "2013-11-29",
+  "categories": [
+    "r&r"
+  ]
 }
