@@ -5,5 +5,9 @@
   "latitude": 19.307,
   "longitude": -81.094636,
   "startDate": "2011-03-05",
-  "endDate": "2011-03-11"
+  "endDate": "2011-03-11",
+  "kind": "trip",
+  "categories": [
+    "dive"
+  ]
 }
