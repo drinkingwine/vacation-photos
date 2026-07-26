@@ -5,5 +5,9 @@
   "latitude": 12.543168,
   "longitude": -70.061393,
   "startDate": "2013-01-15",
-  "endDate": "2013-01-22"
+  "endDate": "2013-01-22",
+  "kind": "trip",
+  "categories": [
+    "robin"
+  ]
 }
