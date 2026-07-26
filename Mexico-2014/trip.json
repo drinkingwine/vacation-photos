@@ -5,5 +5,9 @@
   "latitude": 20.875443,
   "longitude": -86.866311,
   "startDate": "2014-11-22",
-  "endDate": "2014-11-29"
+  "endDate": "2014-11-29",
+  "kind": "trip",
+  "categories": [
+    "r&r"
+  ]
 }
