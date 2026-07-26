@@ -5,5 +5,10 @@
   "latitude": -18.3756,
   "longitude": 178.116,
   "startDate": "2019-08-10",
-  "endDate": "2019-08-25"
+  "endDate": "2019-08-25",
+  "kind": "trip",
+  "categories": [
+    "dive",
+    "r&r"
+  ]
 }
