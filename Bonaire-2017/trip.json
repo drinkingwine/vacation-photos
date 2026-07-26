@@ -6,5 +6,10 @@
   "longitude": -68.28805,
   "startDate": "2017-10-15",
   "endDate": "2017-10-22",
-  "coverPhoto": "Ralph-1.jpeg"
+  "coverPhoto": "Ralph-1.jpeg",
+  "kind": "trip",
+  "categories": [
+    "dive",
+    "r&r"
+  ]
 }
