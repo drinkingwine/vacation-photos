@@ -1,11 +1,13 @@
 {
   "title": "Sipadan",
   "kind": "trip",
-  "categories": [
-    "ralph"
-  ],
   "location": "Sipadan Kapalai Dive Resort",
   "geoLocation": "Sipadan Kapalai Dive Resort, Sabah, Malaysia",
   "latitude": 4.2264,
-  "longitude": 118.6838
+  "longitude": 118.6838,
+  "categories": [
+    "ralph"
+  ],
+  "startDate": "2009-03-22",
+  "endDate": "2009-03-31"
 }
