@@ -1230,6 +1230,9 @@
     "dateTaken": "2009-03-24T00:29:59.000Z"
   },
   "Sipadan 2009 - 200.jpg": {
+    "tags": [
+      "neil"
+    ],
     "location": "Sipadan Kapalai Dive Resort",
     "latitude": 4.2264,
     "longitude": 118.6838,
@@ -1242,6 +1245,9 @@
     "dateTaken": "2009-03-24T01:14:53.000Z"
   },
   "Sipadan 2009 - 202.jpg": {
+    "tags": [
+      "neil"
+    ],
     "location": "Sipadan Kapalai Dive Resort",
     "latitude": 4.2264,
     "longitude": 118.6838,
