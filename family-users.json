@@ -8,6 +8,15 @@
       "passwordSalt": "qVAslxEFnVuoRJmsP_HwvQ",
       "createdAt": "2026-07-30T22:00:09.421Z",
       "updatedAt": "2026-07-30T22:00:09.421Z"
+    },
+    {
+      "id": "4ef26261-0822-4a38-9752-b30b091466b9",
+      "username": "tom",
+      "displayName": "Tom",
+      "passwordHash": "rtDJ94OId2GgqOK3DJgP_jhse94MSI2A4t9UbxCKwvo",
+      "passwordSalt": "Y0OKxyIpzPoadwDziUEv0w",
+      "createdAt": "2026-07-30T22:02:19.203Z",
+      "updatedAt": "2026-07-30T22:02:19.203Z"
     }
   ]
 }
