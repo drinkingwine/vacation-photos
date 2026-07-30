@@ -62,6 +62,15 @@
       "passwordSalt": "M7CtYLsJqibpmznrBjvAHA",
       "createdAt": "2026-07-30T22:09:36.105Z",
       "updatedAt": "2026-07-30T22:09:36.105Z"
+    },
+    {
+      "id": "147b830c-327a-4783-9af5-8d4d04a48412",
+      "username": "aaron",
+      "displayName": "Aaron",
+      "passwordHash": "da2zH-ay8r3LDwvR0MSAiaThmoEwDWDenHL6JINhMZI",
+      "passwordSalt": "D8DBLVR09OgFfZUBaj90qw",
+      "createdAt": "2026-07-30T22:09:48.087Z",
+      "updatedAt": "2026-07-30T22:09:48.087Z"
     }
   ]
 }
