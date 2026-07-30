@@ -1,11 +1,13 @@
 {
   "title": "Normandy 2004",
   "kind": "trip",
-  "categories": [
-    "ralph"
-  ],
   "location": "Normandy France",
   "geoLocation": "Omaha Beach, Normandy, France",
   "latitude": 49.3697,
-  "longitude": -0.8711
+  "longitude": -0.8711,
+  "categories": [
+    "ralph"
+  ],
+  "startDate": "2004-06-06",
+  "endDate": "2004-06-13"
 }
