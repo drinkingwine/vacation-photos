@@ -71,6 +71,15 @@
       "passwordSalt": "D8DBLVR09OgFfZUBaj90qw",
       "createdAt": "2026-07-30T22:09:48.087Z",
       "updatedAt": "2026-07-30T22:09:48.087Z"
+    },
+    {
+      "id": "a265b078-8bd9-4217-bfc1-30d0f700bc5f",
+      "username": "samantha",
+      "displayName": "Samantha",
+      "passwordHash": "xjIqDNsnWtEy6tvT2j5QCE7VgmFbJXGSh8F5mwbcyOM",
+      "passwordSalt": "YtrmZVDYjqrCxBpsBMZwEw",
+      "createdAt": "2026-07-30T22:10:02.490Z",
+      "updatedAt": "2026-07-30T22:10:02.490Z"
     }
   ]
 }
