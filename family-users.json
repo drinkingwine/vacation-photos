@@ -35,6 +35,15 @@
       "passwordSalt": "OdCzpsBe8CSDrKho7pXE1A",
       "createdAt": "2026-07-30T22:08:35.628Z",
       "updatedAt": "2026-07-30T22:08:35.628Z"
+    },
+    {
+      "id": "bdf6cfd3-e222-4621-8ade-ce61c2fb5098",
+      "username": "neil",
+      "displayName": "Neil",
+      "passwordHash": "tPNFJAtGEd8KBw3EN6O3qqj2peu9mTnQL65bmVevubw",
+      "passwordSalt": "MDlsEGkBqW25YkmX9lXtpQ",
+      "createdAt": "2026-07-30T22:09:12.131Z",
+      "updatedAt": "2026-07-30T22:09:12.131Z"
     }
   ]
 }
