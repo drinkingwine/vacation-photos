@@ -53,6 +53,15 @@
       "passwordSalt": "uziH3acrebn8qz-CkmSx5g",
       "createdAt": "2026-07-30T22:09:23.425Z",
       "updatedAt": "2026-07-30T22:09:23.425Z"
+    },
+    {
+      "id": "c6e658fe-092d-488c-b13a-5df56040cf35",
+      "username": "gloria",
+      "displayName": "Gloria",
+      "passwordHash": "ycdRMH4UApeTEjt-X5p-MgBYntEGFSfeNQLUupksqCA",
+      "passwordSalt": "M7CtYLsJqibpmznrBjvAHA",
+      "createdAt": "2026-07-30T22:09:36.105Z",
+      "updatedAt": "2026-07-30T22:09:36.105Z"
     }
   ]
 }
