@@ -44,6 +44,15 @@
       "passwordSalt": "MDlsEGkBqW25YkmX9lXtpQ",
       "createdAt": "2026-07-30T22:09:12.131Z",
       "updatedAt": "2026-07-30T22:09:12.131Z"
+    },
+    {
+      "id": "ffec44a6-652a-4eba-bb24-b3d1b935c564",
+      "username": "stassie",
+      "displayName": "Stassie",
+      "passwordHash": "VG6V0qidV4LQoCNB-VB0uea__zbxnfvs7u2K8FAHtnI",
+      "passwordSalt": "uziH3acrebn8qz-CkmSx5g",
+      "createdAt": "2026-07-30T22:09:23.425Z",
+      "updatedAt": "2026-07-30T22:09:23.425Z"
     }
   ]
 }
