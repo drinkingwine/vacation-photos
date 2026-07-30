@@ -17,6 +17,15 @@
       "passwordSalt": "Y0OKxyIpzPoadwDziUEv0w",
       "createdAt": "2026-07-30T22:02:19.203Z",
       "updatedAt": "2026-07-30T22:02:19.203Z"
+    },
+    {
+      "id": "8b02d1dc-6bbf-4628-a264-6dc417eca0b8",
+      "username": "keith",
+      "displayName": "Keith",
+      "passwordHash": "5V2rz5YMFhyk02B6pN6m7-XSs6o3Dht27Lllxomh_tw",
+      "passwordSalt": "nC6tgMa1OTdMi3BLEkIDiw",
+      "createdAt": "2026-07-30T22:08:16.575Z",
+      "updatedAt": "2026-07-30T22:08:16.575Z"
     }
   ]
 }
