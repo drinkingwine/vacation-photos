@@ -26,6 +26,15 @@
       "passwordSalt": "nC6tgMa1OTdMi3BLEkIDiw",
       "createdAt": "2026-07-30T22:08:16.575Z",
       "updatedAt": "2026-07-30T22:08:16.575Z"
+    },
+    {
+      "id": "8299d13d-4954-48a4-95e7-af2c97776d49",
+      "username": "ally",
+      "displayName": "Ally",
+      "passwordHash": "4evW5nXluRvzHLipeKkoChu34KZW7fD7HbwqWo2qh0c",
+      "passwordSalt": "OdCzpsBe8CSDrKho7pXE1A",
+      "createdAt": "2026-07-30T22:08:35.628Z",
+      "updatedAt": "2026-07-30T22:08:35.628Z"
     }
   ]
 }
