@@ -1,0 +1,13 @@
+{
+  "users": [
+    {
+      "id": "131f514a-88f3-49b9-9e24-d6c672398017",
+      "username": "robin",
+      "displayName": "Robin",
+      "passwordHash": "C7H3nOWW6hTVFfpTXrpksqFv3F2Ve3rMmtyovePAI88",
+      "passwordSalt": "qVAslxEFnVuoRJmsP_HwvQ",
+      "createdAt": "2026-07-30T22:00:09.421Z",
+      "updatedAt": "2026-07-30T22:00:09.421Z"
+    }
+  ]
+}
