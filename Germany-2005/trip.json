@@ -1,11 +1,22 @@
 {
   "title": "Germany 2005",
   "kind": "trip",
-  "categories": [
-    "ralph"
-  ],
   "location": "Germany",
   "geoLocation": "Germany, Germany",
   "latitude": 51.165691,
-  "longitude": 10.451526
+  "longitude": 10.451526,
+  "categories": [
+    "ralph"
+  ],
+  "access": {
+    "guest": false,
+    "familyUserIds": [
+      "147b830c-327a-4783-9af5-8d4d04a48412",
+      "8299d13d-4954-48a4-95e7-af2c97776d49",
+      "c6e658fe-092d-488c-b13a-5df56040cf35",
+      "8b02d1dc-6bbf-4628-a264-6dc417eca0b8",
+      "a265b078-8bd9-4217-bfc1-30d0f700bc5f",
+      "ffec44a6-652a-4eba-bb24-b3d1b935c564"
+    ]
+  }
 }
