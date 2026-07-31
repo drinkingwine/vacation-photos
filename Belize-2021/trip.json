@@ -7,11 +7,8 @@
   "startDate": "2021-07-24",
   "endDate": "2021-07-31",
   "kind": "trip",
-  "categories": [
-    "ralph"
-  ],
   "access": {
-    "guest": false,
+    "guest": true,
     "familyUserIds": [
       "147b830c-327a-4783-9af5-8d4d04a48412",
       "8299d13d-4954-48a4-95e7-af2c97776d49",
@@ -24,5 +21,8 @@
       "ffec44a6-652a-4eba-bb24-b3d1b935c564",
       "4ef26261-0822-4a38-9752-b30b091466b9"
     ]
-  }
+  },
+  "categories": [
+    "ralph"
+  ]
 }
