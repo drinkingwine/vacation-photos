@@ -126,6 +126,15 @@
       "passwordSalt": "Dxi6Z_Z3xPcGZvMSP_V1zw",
       "createdAt": "2026-07-31T02:42:33.055Z",
       "updatedAt": "2026-07-31T02:42:33.055Z"
+    },
+    {
+      "id": "f4508f79-d3c8-464d-8dad-e87f728f2d06",
+      "username": "ione",
+      "displayName": "ione",
+      "passwordHash": "CR1Aw2M37yPnKpksJvrPGj8gjUyV33-_VdSB6FMoxYE",
+      "passwordSalt": "x1CtCca4NY-8104bdLmV7A",
+      "createdAt": "2026-07-31T02:42:41.082Z",
+      "updatedAt": "2026-07-31T02:42:41.082Z"
     }
   ]
 }
