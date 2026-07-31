@@ -117,6 +117,15 @@
       "passwordSalt": "ck605wmlFlozzgEkwVVO7w",
       "createdAt": "2026-07-31T02:42:12.089Z",
       "updatedAt": "2026-07-31T02:42:12.089Z"
+    },
+    {
+      "id": "86a7756a-ec23-4cd8-9c7d-53f3b27ca90e",
+      "username": "kirk",
+      "displayName": "kirk",
+      "passwordHash": "hcE_HHHRyrZIDcdXz_gWLMhkeGUPPGpbk5ylhL3i-Qs",
+      "passwordSalt": "Dxi6Z_Z3xPcGZvMSP_V1zw",
+      "createdAt": "2026-07-31T02:42:33.055Z",
+      "updatedAt": "2026-07-31T02:42:33.055Z"
     }
   ]
 }
