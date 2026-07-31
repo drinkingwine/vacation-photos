@@ -99,6 +99,15 @@
       "passwordSalt": "jXKpJ2Auh2UMHHuFbvKtXQ",
       "createdAt": "2026-07-31T02:40:34.587Z",
       "updatedAt": "2026-07-31T02:40:34.587Z"
+    },
+    {
+      "id": "4fba66a3-f98b-49b4-9115-0b208220244d",
+      "username": "joseph",
+      "displayName": "Joseph",
+      "passwordHash": "VtHOfVcfi1ekRg75IO0eBZQRlDmyK6BV4JavK_EzaFk",
+      "passwordSalt": "1AU80osBZLBv1mlH2rfypA",
+      "createdAt": "2026-07-31T02:40:55.311Z",
+      "updatedAt": "2026-07-31T02:40:55.311Z"
     }
   ]
 }
