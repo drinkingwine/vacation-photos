@@ -7,5 +7,22 @@
   "startDate": "2021-07-24",
   "endDate": "2021-07-31",
   "kind": "trip",
-  "category": "dive"
+  "categories": [
+    "ralph"
+  ],
+  "access": {
+    "guest": false,
+    "familyUserIds": [
+      "147b830c-327a-4783-9af5-8d4d04a48412",
+      "8299d13d-4954-48a4-95e7-af2c97776d49",
+      "c6e658fe-092d-488c-b13a-5df56040cf35",
+      "8b02d1dc-6bbf-4628-a264-6dc417eca0b8",
+      "9d6e29fa-d58c-43be-b0b6-e9274ceaf590",
+      "bdf6cfd3-e222-4621-8ade-ce61c2fb5098",
+      "131f514a-88f3-49b9-9e24-d6c672398017",
+      "a265b078-8bd9-4217-bfc1-30d0f700bc5f",
+      "ffec44a6-652a-4eba-bb24-b3d1b935c564",
+      "4ef26261-0822-4a38-9752-b30b091466b9"
+    ]
+  }
 }
