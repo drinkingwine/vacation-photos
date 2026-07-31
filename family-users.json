@@ -108,6 +108,15 @@
       "passwordSalt": "1AU80osBZLBv1mlH2rfypA",
       "createdAt": "2026-07-31T02:40:55.311Z",
       "updatedAt": "2026-07-31T02:40:55.311Z"
+    },
+    {
+      "id": "5aa0cdff-fe84-4e1e-9c4f-dd0a01f28a8f",
+      "username": "sara",
+      "displayName": "Sara",
+      "passwordHash": "M5IH7GUe6Bk6g1AUNPi5bIHmlpc0rjgKIIzqp7mD83Q",
+      "passwordSalt": "ck605wmlFlozzgEkwVVO7w",
+      "createdAt": "2026-07-31T02:42:12.089Z",
+      "updatedAt": "2026-07-31T02:42:12.089Z"
     }
   ]
 }
