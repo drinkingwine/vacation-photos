@@ -4,6 +4,8 @@
   "kind": "trip",
   "access": {
     "guest": false,
-    "familyUserIds": []
+    "familyUserIds": [
+      "131f514a-88f3-49b9-9e24-d6c672398017"
+    ]
   }
 }
