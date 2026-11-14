@@ -1,4 +1,9 @@
 {
   "title": "Favorites",
-  "description": "Saved photos and videos from across the collection."
+  "description": "Saved photos and videos from across the collection.",
+  "kind": "trip",
+  "access": {
+    "guest": false,
+    "familyUserIds": []
+  }
 }
